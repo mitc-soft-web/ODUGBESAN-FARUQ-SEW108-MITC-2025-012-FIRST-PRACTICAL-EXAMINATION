@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+}
+.pad-section{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.bt{
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    background-color: #fc2e00;
+}
+
+.py-5 {
+    padding-top: 9rem !important;
+    padding-bottom: 9rem !important;
+}
+
+.hero-section {
+    background-image: url(./images/home1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.second{
+    padding-left: 7%;
+    padding-right: 7%;
+
+}
+
+span{
+    color:#fc2e00
+}
+
+
+.third{
+    background-color: #fafafa;
+    padding-top: 7%;
+    padding-left: 7%;
+}
+.fa-check{
+   color: #fc2e00;
+}
+
+.fourth{
+    background-image: url(./images/image\ mi1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 7%;
+}
+
+.fifth{
+    background-color: #fafafa;
+}
+
+.sixth{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.seventh{
+    background-image: url(./images/blog\ image3.jpg);
+    opacity:0.5px ;
+    background-color: black;
+    background-position: top;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.mimi{
+    color: white;
+    padding-top: 70px;
+}
+.mini{
+    color:white;
+    padding-bottom: 70px;
+}
+
+.tip{
+    padding-top: 90px;
+}
+.gold{
+    gap: 70px;
+}
+
+.footer{
+    color: white;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+
+/*about*/
+
+
+.About{
+    background-image: url(./images/sandwish1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.thirdsec{
+    background-image: url(./images/sandwish\ 21.jpg);
+    background-position: center;
+    color: white;
+    padding-top: 8%;
+    padding-bottom: 15%;
+    padding-left: 40%;
+}
+
+/*srevices*/
+
+.services{
+    background-image: url(./images/sandwish\ 31.jpg);
+    background-position:center;
+}
+
+/*contact*/
+
+.contact{
+    background-image: url(./images/contact1.jpg);
+    background-position: bottom;
+}
+
+.seyi{
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-bottom: 5%;
+}
+
+.contact{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 9%;
+    padding-left: 9%;
+    background-image: url(./images/blog\ image3.jpg);
+    background-position: center;
+}
+.one{
+    padding-right: 170px;
+    
+}
+.two{
+    padding-right:170px ;
+}
+.three{
+    padding-right: 190px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
